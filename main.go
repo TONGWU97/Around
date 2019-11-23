@@ -26,7 +26,7 @@ const (
 	INDEX = "around"
 	TYPE = "post"
 	DISTANCE = "200km"
-	ES_URL = "http://34.66.74.186:9200/"
+	ES_URL = "http://35.238.14.138:9200/"
 )
 
 func main() {
